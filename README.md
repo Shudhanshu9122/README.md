@@ -3,19 +3,20 @@
 <h1 align="center">Hi 👋, I'm SHUDHANSHU KUMAR</h1>
 <h3 align="center">A PASSIONATE FRONTEND DEVELOPER FROM INDIA</h3>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"
-- 🔭 I’m currently working on **SRM VIRTUAL LAB**
 
-- 🌱 I’m currently learning **BACKENED AND DATABASE**
+🔭 I’m currently working on **SRM VIRTUAL LAB**
 
-- 👯 I’m looking to collaborate on **AI GENERATIVE PROJECT**
+ 🌱 I’m currently learning **BACKENED AND DATABASE**
 
-- 👨‍💻 All of my projects are available at [GIT HUB](GIT HUB)
+ 👯 I’m looking to collaborate on **AI GENERATIVE PROJECT**
 
-- 💬 Ask me about **HTML CSS JAVASCRIPT REACT**
+ 👨‍💻 All of my projects are available at [GIT HUB](GIT HUB)
 
-- 📫 How to reach me **shudhanshukumar112003@gmail.com**
+ 💬 Ask me about **HTML CSS JAVASCRIPT REACT**
 
-- ⚡ Fun fact **I like to travel**
+ 📫 How to reach me **shudhanshukumar112003@gmail.com**
+
+ ⚡ Fun fact **I like to travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
